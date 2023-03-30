@@ -370,7 +370,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":"https:\/\/moodle.caseine.org\/"
+                         "value":"https:\/\/moodle.caseine.org"
                         }, 
                         {
                          "name":"description",
