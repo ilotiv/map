@@ -1,0 +1,361 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map.tmj",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "map.tmj": {
+            "scale": 0.8130544354838709,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 496.27673423842293,
+                "y": 337.00080590168
+            }
+        },
+        "map.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "map.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "map.tmj#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "map.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "map.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "map.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "map.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "map.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "map.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "map.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "test2.tmj": {
+            "expandedGroupLayers": [
+                6
+            ],
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3994,
+                "y": 2600
+            }
+        },
+        "test2.tmj#!$Campfire": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#Houses_TILESET_B-C-D-E": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#Outside_Stuff_TILESET_B-C-D-E": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#Serene_Village_16x16": {
+            "scaleInDock": 3
+        },
+        "test2.tmj#Serene_Village_32x32": {
+            "scaleInDock": 1.5
+        },
+        "test2.tmj#Serene_Village_48x48": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#TX Props": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#TX Shadow": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#TX Tileset Wall": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#WA_Exterior": {
+            "scaleInDock": 2
+        },
+        "test2.tmj#WA_Special_Zones": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "test2.tmj#boat_large_S": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#boat_large_SW": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#campfire_48x48": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#cannonMobile_N": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#cannonMobile_NE": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#cannonMobile_NW": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#cannonMobile_S": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#cannonMobile_SE": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#cannonMobile_W": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#formationLarge_rock_NE": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#formationLarge_rock_NW": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#formationLarge_rock_SE": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#formationLarge_rock_SW": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#formationLarge_stone_NE": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#formationLarge_stone_NW": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#formationLarge_stone_SE": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#formationLarge_stone_SW": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#formation_rock_NE": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#formation_rock_NW": {
+            "scaleInDock": 1.5
+        },
+        "test2.tmj#formation_rock_SE": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#formation_rock_SW": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#formation_stone_NE": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#formation_stone_NW": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#formation_stone_SE": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#formation_stone_SW": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#hole_NE": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#hole_SE": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#hole_SW": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#paddle_NE": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#palm_detailed_long_NE": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#palm_detailed_long_NW": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#palm_detailed_long_SE": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#palm_detailed_long_SW": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#palm_detailed_short_NE": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#palm_detailed_short_NW": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#palm_detailed_short_SE": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#palm_detailed_short_SW": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#palm_long_NE": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#palm_long_NW": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#palm_long_SE": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#palm_long_SW": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#palm_short_NE": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#palm_short_NW": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#palm_short_SE": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#palm_short_SW": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#plant_SW": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#ship_dark_E": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#ship_dark_N": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#ship_dark_NE": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#ship_dark_NW": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#ship_dark_S": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#ship_dark_SE": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#ship_dark_SW": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#ship_dark_W": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#ship_light_E": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#ship_light_N": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#ship_light_NE": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#ship_light_NW": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#ship_light_S": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#ship_light_SE": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#ship_light_SW": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#ship_light_W": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#ship_wreck_E": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#ship_wreck_N": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#ship_wreck_NE": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#ship_wreck_NW": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#ship_wreck_S": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#ship_wreck_SE": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#ship_wreck_SW": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#ship_wreck_W": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#shovel_NE": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#shovel_NW": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#shovel_SE": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#shovel_SW": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#tower_NE": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#tower_NW": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#tower_SE": {
+            "scaleInDock": 1
+        },
+        "test2.tmj#tower_SW": {
+            "scaleInDock": 1
+        },
+        "untitled.tmj": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 583,
+                "y": 120
+            }
+        },
+        "untitled.tmj#WA_Special_Zones": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "/home/romain.tortosa@Digital-Grenoble.local/Documents/map/tilesets/Isometric",
+    "map.height": 20,
+    "map.lastUsedFormat": "json",
+    "map.width": 30,
+    "openFiles": [
+        "test2.tmj",
+        "map.tmj"
+    ],
+    "project": "untitled.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "test2.tmj",
+        "map.tmj",
+        "untitled.tmj"
+    ],
+    "tileset.embedInMap": true
+}
