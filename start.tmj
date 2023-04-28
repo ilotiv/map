@@ -158,7 +158,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"pages\/index.html"
+                 "value":"https:\/\/github.com\/ilotiv\/map\/blob\/master\/pages\/index.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -351,7 +351,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"pages\/question.php"
+                 "value":"https:\/\/github.com\/ilotiv\/map\/blob\/master\/pages\/info_cours.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -453,7 +453,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom12"
+                         "value":"Chill_Room"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -485,7 +485,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"Conference_Room"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -539,7 +539,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=dxn2p6obXZY"
+                 "value":"https:\/\/github.com\/ilotiv\/map\/blob\/master\/pages\/panneau_accueil.html"
                 }],
          "type":"tilelayer",
          "visible":true,
