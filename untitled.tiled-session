@@ -122,11 +122,14 @@
             "scaleInDock": 1
         },
         "map.tmj": {
+            "expandedGroupLayers": [
+                55
+            ],
             "expandedObjectLayers": [
                 2
             ],
             "scale": 0.8456149193548387,
-            "selectedLayer": 13,
+            "selectedLayer": 4,
             "viewCenter": {
                 "x": 496.0886928533111,
                 "y": 337.0328425821064
@@ -227,11 +230,11 @@
                 13,
                 14
             ],
-            "scale": 0.8589583333333333,
-            "selectedLayer": 2,
+            "scale": 1,
+            "selectedLayer": 14,
             "viewCenter": {
-                "x": 459.277225321368,
-                "y": 317.8268251273345
+                "x": 601.5,
+                "y": 405
             }
         },
         "start.tmj#WA_Decoration": {
