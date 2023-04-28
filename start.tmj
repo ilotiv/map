@@ -2490,7 +2490,7 @@
         {
           "name": "openWebsite",
           "type": "string",
-          "value": "pages/index.html"
+          "value": "https://github.com/ilotiv/map/blob/master/pages/index.html"
         }
       ],
       "x": 0,
@@ -5012,7 +5012,7 @@
         {
           "name": "openWebsite",
           "type": "string",
-          "value": "pages/question.php"
+          "value": "https://github.com/ilotiv/map/blob/master/pages/info_cours.html"
         }
       ],
       "x": 0,
@@ -5694,7 +5694,7 @@
             {
               "name": "jitsiRoom",
               "type": "string",
-              "value": "MeetingRoom12"
+              "value": "Chill_Room"
             },
             {
               "name": "jitsiTrigger",
@@ -5727,7 +5727,7 @@
             {
               "name": "jitsiRoom",
               "type": "string",
-              "value": "MeetingRoom"
+              "value": "Conference_Room"
             },
             {
               "name": "jitsiTrigger",
@@ -6367,7 +6367,7 @@
         {
           "name": "openWebsite",
           "type": "string",
-          "value": "https://www.youtube.com/watch?v=dxn2p6obXZY"
+          "value": "https://github.com/ilotiv/map/blob/master/pages/panneau_accueil.html"
         }
       ],
       "x": 0,
@@ -6379,7 +6379,7 @@
     {
       "columns": 10,
       "firstgid": 1,
-      "image": "start-chunk-1-f34d447f.png",
+      "image": "start-chunk-1-54978874.png",
       "imageheight": 320,
       "imagewidth": 320,
       "margin": 0,
