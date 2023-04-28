@@ -1,0 +1,294 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "#sheet_black1x": {
+            "scaleInDock": 1
+        },
+        "#sheet_black2x": {
+            "scaleInDock": 1
+        },
+        "#sheet_white1x": {
+            "scaleInDock": 1
+        },
+        "#sheet_white2x": {
+            "scaleInDock": 1
+        },
+        "#tilesheet_complete": {
+            "scaleInDock": 1
+        },
+        "cours.tmj": {
+            "expandedObjectLayers": [
+                12
+            ],
+            "scale": 0.8589583333333333,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 479.65073975260736,
+                "y": 318.9910259519768
+            }
+        },
+        "cours.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "cours.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "cours.tmj#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "cours.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "cours.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "cours.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "cours.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "cours.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "cours.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "cours.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "cours.tmj#home": {
+            "scaleInDock": 1
+        },
+        "cours.tmj#icons8-en-construction-100": {
+            "scaleInDock": 1
+        },
+        "cours.tmj#icons8-en-construction-64": {
+            "scaleInDock": 1
+        },
+        "cours.tmj#sheet_black1x": {
+            "scaleInDock": 1
+        },
+        "cours.tmj#sheet_black2x": {
+            "scaleInDock": 1
+        },
+        "cours.tmj#sheet_white1x": {
+            "scaleInDock": 1
+        },
+        "cours.tmj#sheet_white2x": {
+            "scaleInDock": 1
+        },
+        "cours.tmj#tilesheet_complete": {
+            "scaleInDock": 1
+        },
+        "map.tmj": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.8456149193548387,
+            "selectedLayer": 13,
+            "viewCenter": {
+                "x": 496.0886928533111,
+                "y": 337.0328425821064
+            }
+        },
+        "map.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "map.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "map.tmj#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "map.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "map.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "map.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "map.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "map.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "map.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "map.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "path.tmj": {
+            "scale": 0.75,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 398.6666666666667,
+                "y": 444
+            }
+        },
+        "path.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "path.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "path.tmj#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "path.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "path.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "path.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "path.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "path.tmj#WA_Special_Zones": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "path.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "path.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "path.tmj#css-3": {
+            "scaleInDock": 1
+        },
+        "path.tmj#html-5": {
+            "scaleInDock": 1
+        },
+        "path.tmj#sheet_black1x": {
+            "scaleInDock": 1
+        },
+        "path.tmj#sheet_black2x": {
+            "scaleInDock": 1
+        },
+        "path.tmj#sheet_white1x": {
+            "scaleInDock": 1
+        },
+        "path.tmj#sheet_white2x": {
+            "scaleInDock": 1
+        },
+        "path.tmj#tilesheet_complete": {
+            "scaleInDock": 1
+        },
+        "start.tmj": {
+            "expandedObjectLayers": [
+                13,
+                14
+            ],
+            "scale": 0.8589583333333333,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 459.277225321368,
+                "y": 317.8268251273345
+            }
+        },
+        "start.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "start.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "start.tmj#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "start.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "start.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "start.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "start.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "start.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "start.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "start.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "start.tmj#sheet_black1x": {
+            "scaleInDock": 1
+        },
+        "start.tmj#sheet_black2x": {
+            "scaleInDock": 1
+        },
+        "start.tmj#sheet_white1x": {
+            "scaleInDock": 1
+        },
+        "start.tmj#sheet_white2x": {
+            "scaleInDock": 1
+        },
+        "start.tmj#tilesheet_complete": {
+            "scaleInDock": 1
+        }
+    },
+    "map.height": 20,
+    "map.lastUsedFormat": "json",
+    "map.width": 150,
+    "openFiles": [
+    ],
+    "project": "untitled.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "path.tmj"
+    ],
+    "tileset.embedInMap": true
+}
