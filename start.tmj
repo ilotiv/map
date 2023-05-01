@@ -5012,7 +5012,7 @@
         {
           "name": "openWebsite",
           "type": "string",
-          "value": "https://github.com/ilotiv/map/blob/master/pages/info_cours.html"
+          "value": "info_cours.html"
         }
       ],
       "x": 0,
@@ -6367,7 +6367,7 @@
         {
           "name": "openWebsite",
           "type": "string",
-          "value": "https://github.com/ilotiv/map/blob/master/pages/panneau_accueil.html"
+          "value": "panneau_accueil.html"
         }
       ],
       "x": 0,
