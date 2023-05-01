@@ -575,7 +575,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"panneau_accueil.html"
+                 "value":"https://le-campus-numerique.fr/actualites/"
                 }],
          "type":"tilelayer",
          "visible":true,
