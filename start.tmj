@@ -2490,7 +2490,7 @@
         {
           "name": "openWebsite",
           "type": "string",
-          "value": "https://github.com/ilotiv/map/blob/master/pages/index.html"
+          "value": "https://github.com/ilotiv/map/blob/gh-pages/index.html"
         }
       ],
       "x": 0,
