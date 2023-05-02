@@ -7,35 +7,15 @@
 </head>
 <body>
     <button id="loginButton">Login to Moodle</button>
+    <div id="content"></div>
 
     <script>
         document.getElementById('loginButton').addEventListener('click', async () => {
             try {
-                const token = await fetch('fetch_token.php').then(response => response.text());
-                const form = document.createElement('form');
-                form.method = 'POST';
-                form.action = 'https://moodle.caseine.org/login/index.php';
-                form.style.display = 'none';
-
-                const inputUsername = document.createElement('input');
-                inputUsername.name = 'username';
-                inputUsername.value = 'testcna';
-                form.appendChild(inputUsername);
-
-                const inputPassword = document.createElement('input');
-                inputPassword.name = 'password';
-                inputPassword.value = '*TestCNA38+';
-                form.appendChild(inputPassword);
-
-                const inputToken = document.createElement('input');
-                inputToken.name = 'logintoken';
-                inputToken.value = token;
-                form.appendChild(inputToken);
-
-                document.body.appendChild(form);
-                form.submit();
+                const content = await fetch('login_and_fetch.php').then(response => response.text());
+                document.getElementById('content').innerHTML = content;
             } catch (error) {
-                console.error('Error logging in:', error);
+                console.error('Error fetching content:', error);
             }
         });
     </script>
