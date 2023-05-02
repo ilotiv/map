@@ -14,7 +14,8 @@
         function login() {
         // Use an AJAX request to call the PHP script
         var xhr = new XMLHttpRequest();
-        xhr.open("GET", "login.php", true);
+        xhr.open("POST", "", true);
+        xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
         xhr.onreadystatechange = function() {
             if (xhr.readyState === 4 && xhr.status === 200) {
             // Check if the login was successful
@@ -26,15 +27,57 @@
             }
             }
         };
-        xhr.send();
+        xhr.send("action=login");
         }
     </script>
 </head>
 <body>
-    <h1>Bienvenue sur le wordadventure du Campus Numérique in the alps de Grenoble</h1>
-    <p>Nous sommes un organisme de formation certifié proposant des formation aux métiers du numérique tel que développement web ,DevOPs, data et intelligence artificielle. </p>
-    <p>La mission de notre workadventure est de rendre l'éducation du numérique accessible à tous dans l'objectif de vous retrouvez très pochainement dans l'un de nos centre de formation.</p>
-
     <button onclick="login()">Login</button>
+
+    <?php
+        if ($_SERVER['REQUEST_METHOD'] === 'POST' && $_POST['action'] === 'login') {
+            // Define the login page URL
+            $login_page_url = 'https://moodle.caseine.org/login/index.php';
+
+            // Use cURL to retrieve the HTML of the login page
+            $ch = curl_init();
+            curl_setopt($ch, CURLOPT_URL, $login_page_url);
+            curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+            $html = curl_exec($ch);
+            curl_close($ch);
+
+            // Use regular expressions to extract the logintoken value from the HTML
+            preg_match('/<input type="hidden" name="logintoken" value="([^"]+)">/', $html, $matches);
+            $logintoken = $matches[1];
+                    // Define the login URL and the data to be sent with the request
+        $login_url = 'https://moodle.caseine.org/login/index.php';
+        $username = 'testcna';
+        $password = '*TestCNA38+';
+        $anchor = '';
+        $data = array(
+            'username' => $username,
+            'password' => $password,
+            'logintoken' => $logintoken,
+            'anchor' => $anchor
+        );
+
+        // Use cURL to make the POST request to the login URL with the data
+        $ch = curl_init();
+        curl_setopt($ch, CURLOPT_URL, $login_url);
+        curl_setopt($ch, CURLOPT_POST, true);
+        curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($data));
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+        $response = curl_exec($ch);
+
+        // Check if the login was successful
+        if (curl_getinfo($ch, CURLINFO_HTTP_CODE) == 200) {
+            echo 'Login successful!';
+        } else {
+            echo 'Login failed!';
+        }
+
+        curl_close($ch);
+        }
+    ?>
 </body>
 </html>
