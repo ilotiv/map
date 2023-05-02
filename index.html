@@ -12,23 +12,29 @@
     </style>
     <script>
         function login() {
-          // Use an AJAX request to call the PHP script
-          var xhr = new XMLHttpRequest();
-          xhr.open("GET", "login.php", true);
-          xhr.onreadystatechange = function() {
+        // Use an AJAX request to call the PHP script
+        var xhr = new XMLHttpRequest();
+        xhr.open("GET", "login.php", true);
+        xhr.onreadystatechange = function() {
             if (xhr.readyState === 4 && xhr.status === 200) {
-              alert(xhr.responseText);
+            // Check if the login was successful
+            if (xhr.responseText === "Login successful!") {
+                // Redirect the user to the external website
+                window.location.href = "https://moodle.caseine.org/";
+            } else {
+                alert("Login failed!");
             }
-          };
-          xhr.send();
+            }
+        };
+        xhr.send();
         }
-      </script>
+    </script>
 </head>
 <body>
     <h1>Bienvenue sur le wordadventure du Campus Numérique in the alps de Grenoble</h1>
     <p>Nous sommes un organisme de formation certifié proposant des formation aux métiers du numérique tel que développement web ,DevOPs, data et intelligence artificielle. </p>
     <p>La mission de notre workadventure est de rendre l'éducation du numérique accessible à tous dans l'objectif de vous retrouvez très pochainement dans l'un de nos centre de formation.</p>
-    
+
     <button onclick="login()">Login</button>
 </body>
 </html>
